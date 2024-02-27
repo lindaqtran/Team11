@@ -152,3 +152,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 Jordan Woller
 
 ![JWsigniture](https://github.com/lindaqtran/Team11/blob/main/signitures/JWsig.jpg)
+
+Aidan Sussillo
+
+![AS2_signature](https://github.com/lindaqtran/Team11/blob/main/signitures/AS2_signature.png)
