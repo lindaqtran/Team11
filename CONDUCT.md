@@ -160,3 +160,6 @@ Aidan Sussillo
 Linda Tran
 ![LTranSign](https://github.com/lindaqtran/Team11/blob/main/signitures/LTran.png)
 
+Karina Larochelle 
+![KarinaSignature](https://github.com/lindaqtran/Team11/blob/main/signitures/IMG_0215.jpg)
+
