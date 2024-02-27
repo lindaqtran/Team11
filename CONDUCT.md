@@ -146,3 +146,9 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+# Signitures
+
+Jordan Woller
+
+![alt text](https://github.com/lindaqtran/Team11/tree/main/signitures)https://github.com/lindaqtran/Team11/tree/main/signitures/JWsig.jpg?raw=true)
