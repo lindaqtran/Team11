@@ -151,4 +151,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 Jordan Woller
 
-![alt text](https://github.com/lindaqtran/Team11/tree/main/signitures)https://github.com/lindaqtran/Team11/tree/main/signitures/JWsig.jpg?raw=true)
+![JWsigniture](https://github.com/lindaqtran/Team11/blob/main/signitures/JWsig.jpg)
