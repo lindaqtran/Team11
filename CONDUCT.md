@@ -156,3 +156,7 @@ Jordan Woller
 Aidan Sussillo
 
 ![AS2_signature](https://github.com/lindaqtran/Team11/blob/main/signitures/AS2_signature.png)
+
+Linda Tran
+![LTranSign](https://github.com/lindaqtran/Team11/blob/main/signitures/LTran.png)
+
