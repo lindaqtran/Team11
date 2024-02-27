@@ -56,6 +56,22 @@ Examples of representing our community include using an official email address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+## Decisions
+
+In cases where conflicting opinions arise, the group will resort to a voting system involving all 5 members to reach a conclusive solution. This ensures that decisions are made collectively and fairly, taking into account the diverse perspectives within the group. 
+
+## Attendance 
+
+To maintain the integrity and commitment of the group, a policy is in place where missing 5 consecutive meetings prompts the remaining members to convene and determine the fate of the absentee. This mechanism ensures accountability and ensures that the group remains cohesive and productive.
+
+## Assignments 
+
+Assignments will be distributed based on volunteerism, allowing members to choose tasks that align with their interests and strengths. Regular progress check-ins during meetings will ensure that everyone stays on track, and support will be provided to those who require assistance, fostering collaboration and maximizing productivity.
+
+## Meetings
+
+Meetings are scheduled biweekly, with punctuality and preparedness expected from all members to foster effective collaboration. Active participation is encouraged, with members urged to contribute according to their abilities and offer constructive feedback. This approach promotes a productive and inclusive environment, enhancing the group's overall performance and cohesion.
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
