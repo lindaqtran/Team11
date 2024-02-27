@@ -70,7 +70,7 @@ Assignments will be distributed based on volunteerism, allowing members to choos
 
 ## Meetings
 
-Meetings are scheduled biweekly, with punctuality and preparedness expected from all members to foster effective collaboration. Active participation is encouraged, with members urged to contribute according to their abilities and offer constructive feedback. This approach promotes a productive and inclusive environment, enhancing the group's overall performance and cohesion.
+Meetings are scheduled twice weekly, with punctuality and preparedness expected from all members to foster effective collaboration. Active participation is encouraged, with members urged to contribute according to their abilities and offer constructive feedback. This approach promotes a productive and inclusive environment, enhancing the group's overall performance and cohesion.
 
 ## Enforcement
 
