@@ -165,3 +165,7 @@ Karina Larochelle
 
 ![KarinaSignature](https://github.com/lindaqtran/Team11/blob/main/signitures/IMG_0215.jpg)
 
+Chun Wen
+![Chunwensignature]
+(https://github.com/lindaqtran/Team11/blob/main/signitures/signature_pandadoc.png)
+
