@@ -68,9 +68,10 @@ To maintain the integrity and commitment of the group, a policy is in place wher
 
 Assignments will be distributed based on volunteerism, allowing members to choose tasks that align with their interests and strengths. Regular progress check-ins during meetings will ensure that everyone stays on track, and support will be provided to those who require assistance, fostering collaboration and maximizing productivity.
 
+
 ## Meetings
 
-Meetings are scheduled twice weekly, with punctuality and preparedness expected from all members to foster effective collaboration. Active participation is encouraged, with members urged to contribute according to their abilities and offer constructive feedback. This approach promotes a productive and inclusive environment, enhancing the group's overall performance and cohesion.
+Meetings are scheduled twice weekly, with punctuality and preparedness expected from all members to foster effective collaboration. Active participation is encouraged, with members urged to contribute according to their abilities and offer constructive feedback. This approach promotes a productive and inclusive environment, enhancing the group's overall performance and cohesion. During meetings, please refrain from using or having your phones out. It is important to maintain focus and active participation without distractions from electronic devices. Let's ensure a productive and respectful environment for everyone involved.
 
 ## Enforcement
 
