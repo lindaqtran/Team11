@@ -6,7 +6,7 @@ Karina Larochelle
 
 
 # Observation: 
-hello
+Aidan Sussillo
 ## Data:
 ![Genders](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125610.png)
 
