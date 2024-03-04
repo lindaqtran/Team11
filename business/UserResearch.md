@@ -30,11 +30,12 @@ Chun Wen
 
 
 # Observation: 
-hello
+From our poll, our users have told us that they are mostly unsure of whether they would participate in discussions. However, since more users that said that they would participate in discussions, we have decided to change our approach to the way that discussions are held. Instead of having dedicated areas for disusion, we will include comments on recipes so that if users want to have discussions they have a space to do so. 
 ## Data:
 ![interest in discussions](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125636.png)
 
 
-
-
+# Observation: 
+Accourding to the results of the poll, we can see that 37% of users would be interested in recipes tailed to their deitary preferences. Because of this, our team is going to add a search criteria that encorporates such deitary needs. For example, if users are gluten free, than we will include a search criteria to only show gluten free recipes. 
+## Data:
 ![interest in new recipes](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125647.png)
