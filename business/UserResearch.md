@@ -1,5 +1,5 @@
-
-
+# Observation: 
+hello
 
 ![Ages](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125558.png)
 
