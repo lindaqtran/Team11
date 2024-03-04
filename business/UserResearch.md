@@ -7,8 +7,8 @@ Karina Larochelle
 
 # Observation: 
 Aidan Sussillo <br>
-Observation Statement:        <br>
-Supporting Data:    <br>
+Observation Statement: Our survey has successfully engaged a balanced demographic of male and female participants, providing us with valuable insights to tailor our app in a way that optimally serves all users.        <br>
+Supporting Data: Graph Below   <br>
 Team Action: No team action needs to be taken as the data we recieved showed that we recieved nearly a 50/50 split between male and female responses. <br>
 ## Data:
 ![Genders](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125610.png)
