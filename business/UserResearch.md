@@ -1,7 +1,7 @@
 # Observation: 
-Karina Larochelle
+Observation Statement: The survey results indicate a strong representation of young adults, particularly college-aged individuals, with 62.4% falling within the 18-24 age range. This skew towards college-aged respondents could be attributed to the survey's origins as a college-created survey, which likely facilitated easier access to college students. Despite this potential skew, the team chose to focus on respondents who demonstrated an interest in food and fell within the college-age or post-graduate demographic based on the survey responses.
 
-
+Team Action: Given the focus on respondents interested in food and culinary activities, the team may continue to refine the app's features and content to cater to the preferences and needs of the predominantly college-aged demographic while ensuring inclusivity and engagement across all age groups. They may also consider strategies to reach a broader demographic of food enthusiasts beyond the college-aged population.
 ## Data:
 ![Ages](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125558.png)
 
