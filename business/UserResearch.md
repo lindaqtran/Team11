@@ -13,7 +13,7 @@ Aidan Sussillo
 
 
 # Observation: 
-hello
+Linda Tran
 ## Data:
 ![satisfaction](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125619.png)
 
