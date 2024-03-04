@@ -29,6 +29,13 @@ Linda Tran
 
 # Observation: 
 Chun Wen
+Observation 4:
+○ Observation Statement: Most people would try recipe posted by another user on TasteBuds or other source.
+○ Supporting Data:
+44.1% of people are most likely to try a recipe posted by another user on TasteBuds or other source.
+34.4% of people are likely to try a recipe posted by another user on TasteBuds or othersource.
+16.1% of people may try a recipe posted by another user on TasteBuds or other source.
+Only 3.2% of people are likely not willing to try a recipe posted on TasteBuds by another user or from another source.
 
 
 ## Data:
