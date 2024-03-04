@@ -6,10 +6,10 @@ Karina Larochelle
 
 
 # Observation: 
-Aidan Sussillo
-Observation Statement:
-Supporting Data:
-Team Action: No team action needs to be taken as the data we recieved showed that we recieved nearly a 50/50 split between male and female responses.
+Aidan Sussillo <br>
+Observation Statement:        <br>
+Supporting Data:    <br>
+Team Action: No team action needs to be taken as the data we recieved showed that we recieved nearly a 50/50 split between male and female responses. <br>
 ## Data:
 ![Genders](https://github.com/lindaqtran/Team11/blob/main/business/graphs/Screenshot%202024-03-04%20125610.png)
 
