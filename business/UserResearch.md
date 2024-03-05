@@ -64,4 +64,4 @@ Observation Statement: Feedback from potential users highlighted concerns regard
 Team Action: Based on the feedback received, the team decided to change the platform name to "Tastebuds." This name addresses the concerns about the term "connect" while still emphasizing the social aspect of the app. It also aligns more closely with the focus on recipes and cooking, as suggested by users. Additionally, "Tastebuds" is shorter and more concise, addressing concerns about name length and aligning with the preference for shorter names akin to major social media platforms.
 
 ## Data
-![app name review](https://github.com/lindaqtran/Team11/blob/main/business/graphs/TasteBudsReviews.pdf)
+![app name review](https://github.com/lindaqtran/Team11/blob/main/business/graphs/SurveyReview.png)
