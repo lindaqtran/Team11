@@ -110,7 +110,7 @@
             "children": [],
             "id": "ffd8cf6d-2e6f-4a9b-af54-93c2325587d2",
             "thunkableVersion": 448,
-            "name": "label Error1"
+            "name": "label Error"
         },
         {
             "type": "Label",
@@ -232,7 +232,7 @@
             "id": "28cb70a4-e519-4f3a-a001-ab929eb36064",
             "thunkableVersion": 448,
             "bindings": null,
-            "name": "Button3"
+            "name": "Button reset"
         },
         {
             "type": "Button",
@@ -286,7 +286,7 @@
             "children": [],
             "id": "e62ef34d-59ff-4dd2-be5b-517d4cc4c6d7",
             "thunkableVersion": 448,
-            "name": "Button2"
+            "name": "Button sign out"
         },
         {
             "type": "Image",
@@ -336,5 +336,5 @@
     ],
     "id": "75ad16a3-6581-4069-a3f2-070c75e069c3",
     "thunkableVersion": 448,
-    "name": "Screen2"
+    "name": "Sign Out"
 }
