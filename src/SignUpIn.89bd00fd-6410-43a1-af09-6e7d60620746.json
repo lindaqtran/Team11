@@ -492,7 +492,7 @@
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(123, 177, 221, 1)",
-                "Height": 27,
+                "Height": 25,
                 "Width": 92,
                 "Visible": true,
                 "X": 240,
