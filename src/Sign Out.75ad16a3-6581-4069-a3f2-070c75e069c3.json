@@ -51,6 +51,53 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
+                "Picture": "profile.png",
+                "resizeMode": "stretch",
+                "Height": 50,
+                "Width": 50,
+                "Visible": true,
+                "X": 325,
+                "Y": 0,
+                "RelativeX": 325,
+                "RelativeY": 0,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "39.86666666666667%",
+                    "top": "56.67166416791604%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "376724cc-eac5-46b8-8e5c-993e8d6fac20",
+                "position": "absolute",
+                "edgeOffsets": -3.552713678800501e-15
+            },
+            "children": [],
+            "id": "7b22ffab-eda6-4368-bb8e-30141fdcce35",
+            "thunkableVersion": 449,
+            "bindings": null,
+            "name": "profile pic1"
+        },
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
                 "Picture": "logotransparent.png",
                 "resizeMode": "stretch",
                 "Height": 200,

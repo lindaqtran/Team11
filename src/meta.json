@@ -225,7 +225,17 @@
                         "iap": false
                     }
                 },
-                "9b7e4765-5628-46f5-a7aa-fb650a966d20": {},
+                "9b7e4765-5628-46f5-a7aa-fb650a966d20": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
                 "75ad16a3-6581-4069-a3f2-070c75e069c3": {
                     "xml": "",
                     "permissions": {
