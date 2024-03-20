@@ -250,8 +250,21 @@
                 "9095267a-b668-4044-8fb9-bd0fa3f58af1": {
                     "xml": "",
                     "permissions": {
-                        "android": [],
-                        "ios": []
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
                     },
                     "enabledFeatures": {
                         "location": true,
@@ -274,10 +287,10 @@
                         "id": "376724cc-eac5-46b8-8e5c-993e8d6fac20"
                     },
                     {
-                        "id": "75ad16a3-6581-4069-a3f2-070c75e069c3"
+                        "id": "9095267a-b668-4044-8fb9-bd0fa3f58af1"
                     },
                     {
-                        "id": "9095267a-b668-4044-8fb9-bd0fa3f58af1"
+                        "id": "75ad16a3-6581-4069-a3f2-070c75e069c3"
                     }
                 ]
             },
@@ -315,7 +328,12 @@
                 "cloudinaryAPIKey": "",
                 "cloudinaryAPISecret": "",
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": "",
+                            "NSPhotoLibraryUsageDescription": ""
+                        }
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -359,7 +377,12 @@
                 "cloudinaryAPIKey": "",
                 "cloudinaryAPISecret": "",
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": "",
+                            "NSPhotoLibraryUsageDescription": ""
+                        }
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
