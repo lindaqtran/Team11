@@ -2,20 +2,20 @@ https://docs.google.com/presentation/d/19E2v-PTfQyho3fw28P4EDxCSN5Qtb7l1ZcmsL7md
 
 
 
-#Metric 1 (Happiness)
+# Metric 1 (Happiness)
 
 
 
-#Metric 2 (Engagement)
+# Metric 2 (Engagement)
 
 
 
-#Metric 3 (Adoption)
+# Metric 3 (Adoption)
 
 
 
-#Metric 4 (Retention)
+# Metric 4 (Retention)
 
 
 
-#Metric 5 (Task Success)
+# Metric 5 (Task Success)
