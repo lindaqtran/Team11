@@ -12,6 +12,11 @@ https://docs.google.com/presentation/d/19E2v-PTfQyho3fw28P4EDxCSN5Qtb7l1ZcmsL7md
 
 # Metric 3 (Adoption)
 
+Aidan Sussillo
+* Use the "first_open" event in Google Analytics for Firebase to track app downloads.
+Utilize Firebase Authentication to track user sign-ups automatically.
+Log a custom event (e.g., "account_creation_completed") after a user completes account creation to track this activity.
+
 
 
 # Metric 4 (Retention)
