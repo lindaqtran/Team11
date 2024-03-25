@@ -28,7 +28,7 @@ Aidan Sussillo
 - Changing the app's font from Merriweather to Oswald is hypothesized to improve readability and the overall aesthetic of the app, leading to a more positive first impression. This enhancement is expected to increase new user sign-ups and encourage more complete interactions with setting up profiles and engaging with the "Discover Recipes" feature, as the content appears more accessible and inviting.
 
 **Experiment:**  
-- Setup: Implement a 50/50 split where half of the new users see the app's text in Merriweather (Control Group A) and the other half see the text in Oswald (Experiment Group B). This test will be conducted over a period of 4 weeks.
+- Setup: Implement a 50/50 split where half of the new users see the app's text in Merriweather (Control Group A) and the other half see the text in Oswald (Experiment Group B).
 - Audience: All new users during the test period.
 - Tracking: Using Firebase Analytics, track sign-up rates, the number of profiles fully set up with preferences, and engagement metrics with the "Discover Recipes" feature between the two groups.
 
