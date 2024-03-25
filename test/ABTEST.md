@@ -60,13 +60,15 @@ Jordan Woller <br>
 
 
 **A/B Test Name:**
-Sign up Button on User Experience 
+
 **User Story Number:**
 US4
+
 **Metric (from the HEART grid)**:
 
 **Hypothesis:**
-**Experiment:**
-**Variations:**
 
+**Experiment:**
+
+**Variations:**
 
