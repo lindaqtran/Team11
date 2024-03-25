@@ -28,3 +28,7 @@ Linda Tran
 
 
 # Metric 5 (Task Success)
+Jordan Woller
+* We will use Google Analytics to track users CTR
+
+
