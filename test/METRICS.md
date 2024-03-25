@@ -19,7 +19,10 @@ Aidan Sussillo
 
 
 # Metric 4 (Retention)
-
+Linda Tran
+* We will use Google Analytics for retention and we will keep track of users who sign-up
+* We will look in trends in behavoir and analyze our metrics based on different time frames to identify behaviors.
+* Based on the insights we will iterate what we should do next 
 
 
 # Metric 5 (Task Success)
