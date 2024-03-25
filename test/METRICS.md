@@ -32,5 +32,6 @@ Linda Tran
 # Metric 5 (Task Success)
 Jordan Woller
 * We will use Google Analytics to track users CTR
+* Using Firebase, we will be able to track the total number of likes, and with a formula, we can track the total number of likes per a time range. 
 
 
