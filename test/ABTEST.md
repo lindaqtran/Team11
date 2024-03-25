@@ -2,8 +2,11 @@
 
 ## A/B Test 1
 Karina Larochelle
+
 **A/B Test Name:** Appetizing Color
+
 **User Story Number:** US 4 Main Functionality
+
 **Hypothesis:** After looking into color theory and what each color means when associated with food we discovered that there are particular colors associated with appetizing foods versus not appetizing. Currently, our app has a sky blue background for every screen which based off the relationship between food and color, this could steer customers away from our app. Blue is not commonly found in nature, therefore it can lead users to think of an app that is unappetizing. We are proposing a version that is red which is one of the chief food colors. Red evokes the tastebuds and stimulates the appetite. 
 **Experiment:** All audiences should be able to view the experiement because this metric 
 
