@@ -1,8 +1,8 @@
 # A/B Testing for Tastebuds
 
-## A/B Test 1
+## A/B Test Happiness
 
-## A/B Test 2
+## A/B Test 2 Engagement
 
 ## A/B Test Adoption 
 Aidan Sussillo
