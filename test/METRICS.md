@@ -3,7 +3,9 @@ https://docs.google.com/presentation/d/19E2v-PTfQyho3fw28P4EDxCSN5Qtb7l1ZcmsL7md
 
 
 # Metric 1 (Happiness)
-* Through NPS we can tell how satisfied users are with the app
+* NPS will tell us how satisfied users are with the app
+* Use Google Analytics to show us the average time on site
+* Use Google Analytics to show how many returning visitors there are
 
 
 # Metric 2 (Engagement)
