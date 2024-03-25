@@ -255,14 +255,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSPhotoLibraryUsageDescription",
-                                "label": "Photos",
-                                "hint": "Describe why your app uses photos."
-                            },
-                            {
                                 "name": "NSCameraUsageDescription",
                                 "label": "Camera",
                                 "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
                             }
                         ]
                     },
