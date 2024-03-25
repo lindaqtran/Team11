@@ -8,7 +8,18 @@ Karina Larochelle
 **User Story Number:** US 4 Main Functionality
 
 **Hypothesis:** After looking into color theory and what each color means when associated with food we discovered that there are particular colors associated with appetizing foods versus not appetizing. Currently, our app has a sky blue background for every screen which based off the relationship between food and color, this could steer customers away from our app. Blue is not commonly found in nature, therefore it can lead users to think of an app that is unappetizing. We are proposing a version that is red which is one of the chief food colors. Red evokes the tastebuds and stimulates the appetite. 
-**Experiment:** All audiences should be able to view the experiement because this metric 
+
+**Experiment:** All audiences should be able to view the experiment because this metric is directly related to user engagement, and restricting access could skew results. We will allocate 50% of our user base to the experiment, randomly assigning users to either the control group (sky blue background) or the variant group (red background).
+
+**Tracking using Firebase Analytics:**
+* Track user engagement metrics such as time spent on each screen, number of interactions, and screen transitions for both the control and variant groups.
+* Monitor user behavior, including session duration and frequency of app usage.
+Analyze retention rates to determine if the color change affects user retention over time.
+
+**Variations:*** 
+* Control Group: Users assigned to this group will experience the current app design with a sky blue background on all screens.
+* Variant Group: Users assigned to this group will see a variant of the app design with a red background on all screens.
+Additionally, we'll develop a color palette comparison to highlight the differences and ensure consistency across the app. Detailed diagrams will illustrate how the color variation will be implemented in key user interface elements, considering accessibility standards. We'll conduct a visual impact analysis to assess the effect on user perception and engagement, ensuring the chosen colors stimulate appetite and maintain aesthetic appeal. Feedback collection methods will be employed to gather user preferences and insights throughout the experiment.
 
 ## A/B Test 2
 A/B Test Name: Enhance User Experience with Preferred Feature
