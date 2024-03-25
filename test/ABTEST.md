@@ -59,7 +59,7 @@ US4
 Jordan Woller <br>
 
 
-**A/B Test Name:**
+**A/B Test Name:** How do day and night themes impact active user counts at different times.
 
 **User Story Number:**
 US4
