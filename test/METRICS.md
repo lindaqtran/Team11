@@ -3,7 +3,7 @@ https://docs.google.com/presentation/d/19E2v-PTfQyho3fw28P4EDxCSN5Qtb7l1ZcmsL7md
 
 
 # Metric 1 (Happiness)
-
+* Through NPS we can tell how satisfied users are with the app
 
 
 # Metric 2 (Engagement)
