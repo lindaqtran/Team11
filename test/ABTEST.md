@@ -11,6 +11,41 @@ Karina Larochelle
 **Experiment:** All audiences should be able to view the experiement because this metric 
 
 ## A/B Test 2
+A/B Test Name: Enhance User Experience with Preferred Feature
+
+User Story Number: US-4
+
+Metric (from the HEART grid): Engagement & Happiness
+
+Hypothesis:
+Problem: We're unsure which of two new features (Feature A & Feature B) users find more engaging and valuable.
+Impact: Understanding user preference can help us prioritize development efforts and optimize the overall user experience.
+Solution: Presenting both features to different user segments will reveal which one drives higher engagement and user satisfaction.
+Experiment
+
+Audience:
+We will target this experiment towards all active users of the app.
+We will allocate 50% of users to see either Variation A or Variation B.
+Rationale:  Including all active users ensures a broad sample size and avoids skewing results towards a specific user segment.  A 50/50 split allows for a balanced comparison.
+
+Tracking with Firebase Analytics:
+We will track the following events:
+"Feature X Viewed" (for both Feature A & B)
+"Interaction with Feature X" (e.g., clicks, time spent)
+User surveys or feedback prompts related to feature experience.
+Success Metrics:
+Primary: The primary success metric will be a combination of engagement metrics for each feature (e.g., number of times viewed, time spent interacting). Variation with higher engagement wins.
+Secondary: We can also monitor user feedback received through surveys or prompts to gauge their satisfaction with each feature.
+Variations
+
+Variation A (Control): Users will see Feature A prominently displayed within the app interface.
+
+Variation B (Treatment): Users will see Feature B prominently displayed within the app interface.
+
+Design Considerations:
+Both features should be presented clearly and concisely within the app interface. Utilize compelling visuals and brief descriptions to highlight the purpose and value proposition of each feature. Ensure a seamless user experience regardless of which variation users encounter.
+
+Mockups:
 
 ## A/B Test 3 (Font)
 Aidan Sussillo
