@@ -9,8 +9,10 @@ https://docs.google.com/presentation/d/19E2v-PTfQyho3fw28P4EDxCSN5Qtb7l1ZcmsL7md
 
 
 # Metric 2 (Engagement)
-
-
+Chun Wen
+* Use Google Analytics Session rate to tracks the number of user sessions within a timeframe (e.g., daily).
+* Use the Average Session Duration to Measures the average time users spend per session.
+* Daily Active Users (DAU): Tracks the number of users accessing the app each day.
 
 # Metric 3 (Adoption)
 Aidan Sussillo
