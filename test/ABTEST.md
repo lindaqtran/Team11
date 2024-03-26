@@ -104,16 +104,21 @@ US4
 Jordan Woller <br>
 
 
-**A/B Test Name:** How do day and night themes impact active user counts at different times.
+**A/B Test Name:** Should we display like counts for posts
 
 **User Story Number:**
 US4
 
-**Metric (from the HEART grid)**:
+**Metric (from the HEART grid)**:  Number of likes per time frame
 
-**Hypothesis:**
+**Hypothesis:** 
+- Displaying like counts for posts will create a sense of social validation and encourage users to engage more with the content. By providing visibility into the popularity of posts, users may feel more compelled to interact with them, leading to an increase in the number of likes per time frame.
 
 **Experiment:**
+- Setup: Implement a 50/50 split where half of the users see the like counts for posts (Experiment Group A) and the other half do not (Control Group B).
+- Audience: All users during the test period.
+- Tracking: Utilize platform analytics to measure the number of likes received by posts in both groups over the designated time frame.
 
 **Variations:**
-
+- Control Variation (B): Do not display like counts for posts. This serves as the baseline for comparison.
+- Experiment Variation (A): Display like counts for posts. The expectation is that this feature will provide users with social cues and prompt higher engagement with posts.
