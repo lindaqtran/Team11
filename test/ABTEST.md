@@ -90,10 +90,11 @@ Aidan Sussillo
 Linda Tran
 
 **A/B Test Name:**
-Sign up layout User Experience Impact 
+- Sign up layout User Experience Impact 
 **User Story Number:**
-US4
-**Metric (from the HEART grid)**:Download rate increasing, Sign up rate increasing
+- US4
+**Metric (from the HEART grid)**:
+- Download rate increasing, Sign up rate increasing
 
 **Hypothesis:**
 - Modifying the layout of the sign-up page to make it more intuitive and user-friendly by reducing clutter
