@@ -56,7 +56,6 @@ Variation B (Treatment): Users will see Feature B prominently displayed within t
 Design Considerations:
 Both features should be presented clearly and concisely within the app interface. Utilize compelling visuals and brief descriptions to highlight the purpose and value proposition of each feature. Ensure a seamless user experience regardless of which variation users encounter.
 
-Mockups:
 
 ## A/B Test 3 (Font)
 Aidan Sussillo
