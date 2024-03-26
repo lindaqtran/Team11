@@ -86,18 +86,25 @@ Aidan Sussillo
 
 
 
-## A/B Test 4 (Sign-up Button)
+## A/B Test 4 (Sign up layout)
 Linda Tran
 
 **A/B Test Name:**
-Sign up Button on User Experience 
+Sign up layout User Experience Impact 
 **User Story Number:**
 US4
-**Metric (from the HEART grid)**:
+**Metric (from the HEART grid)**:Download rate increasing, Sign up rate increasing
 
 **Hypothesis:**
+- Modifying the layout of the sign-up page to make it more intuitive and user-friendly by reducing clutter
 **Experiment:**
+- Setup: Implement a 50/50 split where half of the new users experience the current sign-up layout (Control Group A) and the other half experience the new, optimized layout (Experiment Group B).
+- Audience: All new users who visit the sign-up page during the test period.
+- Tracking: Utilize Google Analytics and in-app analytics tools to track sign-up rates, download rates, and activation rates. Additionally, conduct user satisfaction surveys for both groups after the sign-up process to measure perceived ease of use and satisfaction.
+
 **Variations:**
+- Control Variation (A): Current sign-up layout. This serves as the baseline for comparison, featuring the existing design and flow of the sign-up process.
+- Experiment Variation (B): New sign-up layout. This variation includes a streamlined form, fewer fields, clearer instructions, and visual cues that guide the user through the sign-up process. The hypothesis is that these changes will lead to a more pleasant user experience, thereby increasing sign-up and download rates
 
 
 ## A/B Test 5
