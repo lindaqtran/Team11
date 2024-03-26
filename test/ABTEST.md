@@ -98,6 +98,7 @@ Linda Tran
 
 **Hypothesis:**
 - Modifying the layout of the sign-up page to make it more intuitive and user-friendly by reducing clutter
+
 **Experiment:**
 - Setup: Implement a 50/50 split where half of the new users experience the current sign-up layout (Control Group A) and the other half experience the new, optimized layout (Experiment Group B).
 - Audience: All new users who visit the sign-up page during the test period.
