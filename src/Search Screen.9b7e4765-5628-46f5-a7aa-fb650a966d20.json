@@ -45,7 +45,8 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "Scrollable": true
     },
     "children": [
         {
@@ -120,17 +121,17 @@
                         }
                     }
                 },
-                "Height": 366,
-                "Width": 316,
+                "Height": 368,
+                "Width": 318,
                 "Visible": true,
-                "X": 32,
-                "Y": 268,
-                "RelativeX": 32,
-                "RelativeY": 268,
+                "X": 32.88888931274414,
+                "Y": 268.8888854980469,
+                "RelativeX": 32.88888931274414,
+                "RelativeY": 268.8888854980469,
                 "ResizeMode": "STRETCH",
                 "ParentId": "9b7e4765-5628-46f5-a7aa-fb650a966d20",
                 "position": "absolute",
-                "edgeOffsets": 268,
+                "edgeOffsets": 268.8888854980469,
                 "style": {
                     "position": "absolute",
                     "left": "7.6%",
