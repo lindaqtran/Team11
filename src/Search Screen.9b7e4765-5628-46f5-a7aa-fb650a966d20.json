@@ -58,10 +58,10 @@
                 "Height": 50,
                 "Width": 50,
                 "Visible": true,
-                "X": 325,
-                "Y": 0,
-                "RelativeX": 325,
-                "RelativeY": 0,
+                "X": 294,
+                "Y": 6,
+                "RelativeX": 294,
+                "RelativeY": 6,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -88,7 +88,7 @@
                 "capInsets": {},
                 "ParentId": "376724cc-eac5-46b8-8e5c-993e8d6fac20",
                 "position": "absolute",
-                "edgeOffsets": 0
+                "edgeOffsets": 6
             },
             "children": [],
             "id": "c5230c66-2d79-4482-9012-64e3d100d94c",
@@ -784,10 +784,10 @@
                 "Height": 45,
                 "Width": 311,
                 "Visible": true,
-                "X": 32,
-                "Y": 29,
-                "RelativeX": 32,
-                "RelativeY": 29,
+                "X": 33,
+                "Y": 42,
+                "RelativeX": 33,
+                "RelativeY": 42,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -828,7 +828,7 @@
                 },
                 "ParentId": "9b7e4765-5628-46f5-a7aa-fb650a966d20",
                 "position": "absolute",
-                "edgeOffsets": 29.000000000000004,
+                "edgeOffsets": 42,
                 "children": "Recipe Finder"
             },
             "children": [],
