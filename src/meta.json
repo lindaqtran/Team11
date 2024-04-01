@@ -4,7 +4,21 @@
             "apiComponents": {
                 "ApiContainer": {
                     "id": "ApiContainer",
-                    "children": []
+                    "children": [
+                        {
+                            "type": "Web API",
+                            "translatedName": "Web API",
+                            "isApi": true,
+                            "reactType": "Web",
+                            "properties": {
+                                "URL": "https://api.spoonacular.com/recipes/complexSearch"
+                            },
+                            "children": [],
+                            "id": "7d720286-a362-4592-8831-7e9b1ccd51a1",
+                            "thunkableVersion": 450,
+                            "name": "Set Restrictions API"
+                        }
+                    ]
                 }
             },
             "assets": {
