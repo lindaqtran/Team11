@@ -45,7 +45,8 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "BackgroundPicture": "Screenshot 2024-04-02 at 10.14.18 AM.png"
     },
     "children": [
         {
@@ -55,7 +56,7 @@
             "properties": {
                 "Value": 2.5,
                 "Count": 5,
-                "Icon": "ios-star",
+                "Icon": "star",
                 "Visible": true,
                 "Direction": "row",
                 "ReadOnly": false,
@@ -159,15 +160,15 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
-                "Picture": "profile.png",
+                "Picture": "profileButtonLogo.png",
                 "resizeMode": "stretch",
-                "Height": 50,
-                "Width": 50,
+                "Height": 101,
+                "Width": 90,
                 "Visible": true,
-                "X": 325,
-                "Y": 0,
-                "RelativeX": 325,
-                "RelativeY": 0,
+                "X": 277,
+                "Y": 46,
+                "RelativeX": 277,
+                "RelativeY": 46,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -194,7 +195,7 @@
                 "capInsets": {},
                 "ParentId": "376724cc-eac5-46b8-8e5c-993e8d6fac20",
                 "position": "absolute",
-                "edgeOffsets": -3.552713678800501e-15
+                "edgeOffsets": 46
             },
             "children": [],
             "id": "7b22ffab-eda6-4368-bb8e-30141fdcce35",
@@ -208,13 +209,13 @@
             "properties": {
                 "Picture": "logotransparent.png",
                 "resizeMode": "stretch",
-                "Height": 200,
-                "Width": 200,
+                "Height": 121,
+                "Width": 175,
                 "Visible": true,
-                "X": 87.5,
-                "Y": 10,
-                "RelativeX": 87.5,
-                "RelativeY": 10,
+                "X": 100,
+                "Y": 74,
+                "RelativeX": 100,
+                "RelativeY": 74,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -241,7 +242,7 @@
                 "capInsets": {},
                 "ParentId": "89bd00fd-6410-43a1-af09-6e7d60620746",
                 "position": "absolute",
-                "edgeOffsets": 12.999999999999998
+                "edgeOffsets": 74
             },
             "children": [],
             "id": "0f400738-204e-4e2e-9c37-078bdd120519",
@@ -319,12 +320,12 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Sign Out Screen",
+                "Text": "Sign Out",
                 "FontSize": 25,
                 "Font": "Merriweather",
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(139, 87, 42, 1)",
                 "TextAlign": "center",
                 "Height": 45,
                 "Width": 325,
@@ -335,7 +336,7 @@
                 "RelativeY": 190,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(139, 87, 42, 1)",
                     "fontSize": 25,
                     "fontStyle": "normal",
                     "letterSpacing": 0,
@@ -369,12 +370,14 @@
                     "top": "31.03448275862069%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "textAlign": "center"
+                    "textAlign": "center",
+                    "fontWeight": "bold"
                 },
                 "ParentId": "75ad16a3-6581-4069-a3f2-070c75e069c3",
                 "position": "absolute",
                 "edgeOffsets": 189,
-                "children": "Sign Out Screen"
+                "children": "Sign Out",
+                "FontWeight": "bold"
             },
             "children": [],
             "id": "1898d10c-80d3-49e0-ba70-c7e5fa119832",
@@ -388,9 +391,9 @@
                 "Text": "Reset Password",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
-                "Font": "",
+                "Font": "Merriweather",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(139, 87, 42, 1)",
                 "Height": 60,
                 "Width": 325,
                 "Visible": true,
@@ -422,7 +425,7 @@
                     "top": "42.57871064467766%",
                     "display": "flex"
                 },
-                "FontBold": false,
+                "FontBold": true,
                 "FontItalic": false,
                 "Raised": false,
                 "Disabled": false,
@@ -443,9 +446,9 @@
                 "Text": "Sign Out",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
-                "Font": "",
+                "Font": "Merriweather",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(139, 87, 42, 1)",
                 "Height": 60,
                 "Width": 325,
                 "Visible": true,
@@ -477,7 +480,7 @@
                     "top": "42.57871064467766%",
                     "display": "flex"
                 },
-                "FontBold": false,
+                "FontBold": true,
                 "FontItalic": false,
                 "Raised": false,
                 "Disabled": false,
