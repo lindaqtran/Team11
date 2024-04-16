@@ -1,0 +1,7 @@
+site_name: Tastebuds
+site_url: https://lindaqtran.github.io/Team11/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+theme: readthedocs
