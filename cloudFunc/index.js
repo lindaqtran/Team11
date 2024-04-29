@@ -41,8 +41,9 @@ exports.getTopRecipes = functions.https.onRequest(async (req, res) => {
     try {
         const { cuisine, dietary, mealType } = req.query;
 
-        if (!cuisine || !dietary || !mealType) {
-            return res.status(400).json({ error: 'Please provide cuisine, dietary, and mealType' });
+        // Check if at least one parameter is provided
+        if (!cuisine && !dietary && !mealType) {
+            return res.status(400).json({ error: 'Please provide cuisine, dietary, or mealType' });
         }
 
         const db = admin.database();
@@ -55,7 +56,8 @@ exports.getTopRecipes = functions.https.onRequest(async (req, res) => {
 
         for (const recipeId in recipes) {
             const recipe = recipes[recipeId];
-            if (recipe.cuisine === cuisine && recipe.diet_type === dietary && recipe.meal === mealType) {
+            // Check if cuisine matches if provided
+            if ((!cuisine || recipe.cuisine === cuisine) && (!dietary || recipe.diet_type === dietary) && (!mealType || recipe.meal === mealType)) {
                 matchedRecipes.push({ id: recipeId, ...recipe });
             }
         }
