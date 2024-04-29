@@ -39,7 +39,7 @@ exports.calculateAverageRating = functions.https.onRequest(async (_, res) => {
 
 exports.getTopRecipes = functions.https.onRequest(async (req, res) => {
     try {
-        const { cuisine, dietary, mealType } = req.body;
+        const { cuisine, dietary, mealType } = req.query;
 
         if (!cuisine || !dietary || !mealType) {
             return res.status(400).json({ error: 'Please provide cuisine, dietary, and mealType' });
