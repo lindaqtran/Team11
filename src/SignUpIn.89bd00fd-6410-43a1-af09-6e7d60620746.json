@@ -47,7 +47,10 @@
         "isSimple": true,
         "Scrollable": false,
         "BackgroundColor": "rgba(123, 177, 221, 1)",
-        "BackgroundPicture": "TasteBudsBackground.avif"
+        "BackgroundPicture": "TasteBudsBackground.avif",
+        "navigationOptions": {
+            "drawerLabel": "Sign In Screen"
+        }
     },
     "children": [
         {

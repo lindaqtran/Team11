@@ -46,25 +46,28 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "Scrollable": true,
-        "BackgroundPicture": "Screenshot 2024-04-02 at 10.14.18 AM.png",
+        "Scrollable": false,
+        "BackgroundPicture": "TasteBudsBackground.avif",
         "BackgroundPictureResizeMode": "cover",
-        "resizeMode": "cover"
+        "resizeMode": "cover",
+        "navigationOptions": {
+            "drawerLabel": "Recipe Finder"
+        }
     },
     "children": [
         {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
-                "Picture": "profileButtonLogo.png",
+                "Picture": "icons8-hamburger-menu-50 (1).png",
                 "resizeMode": "stretch",
-                "Height": 84,
-                "Width": 96,
+                "Height": 33,
+                "Width": 33,
                 "Visible": true,
-                "X": 282,
-                "Y": 1,
-                "RelativeX": 282,
-                "RelativeY": 1,
+                "X": 9,
+                "Y": 8,
+                "RelativeX": 9,
+                "RelativeY": 8,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -84,20 +87,22 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "39.86666666666667%",
-                    "top": "56.67166416791604%",
-                    "display": "flex"
+                    "left": "6.8%",
+                    "top": "1.6784576461769116%",
+                    "display": "flex",
+                    "backgroundColor": "rgba(139, 87, 42, 1)"
                 },
                 "capInsets": {},
                 "ParentId": "376724cc-eac5-46b8-8e5c-993e8d6fac20",
                 "position": "absolute",
-                "edgeOffsets": 1
+                "edgeOffsets": 8,
+                "BackgroundColor": "rgba(139, 87, 42, 1)"
             },
             "children": [],
-            "id": "c5230c66-2d79-4482-9012-64e3d100d94c",
-            "thunkableVersion": 449,
+            "id": "a1a5f4a9-da6c-4883-8473-728288fc2cf3",
+            "thunkableVersion": 454,
             "bindings": null,
-            "name": "profile pic2"
+            "name": "Image15"
         },
         {
             "type": "List View",
@@ -127,14 +132,14 @@
                 "Height": 336,
                 "Width": 315,
                 "Visible": true,
-                "X": 33,
-                "Y": 300,
-                "RelativeX": 33,
-                "RelativeY": 300,
+                "X": 2,
+                "Y": 299,
+                "RelativeX": 2,
+                "RelativeY": 299,
                 "ResizeMode": "STRETCH",
                 "ParentId": "9b7e4765-5628-46f5-a7aa-fb650a966d20",
                 "position": "absolute",
-                "edgeOffsets": 300,
+                "edgeOffsets": 299,
                 "style": {
                     "position": "absolute",
                     "left": "7.6%",
@@ -727,18 +732,18 @@
                 "Font": "Merriweather",
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(139, 87, 42, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "TextAlign": "center",
-                "Height": 45,
-                "Width": 311,
+                "Height": 49,
+                "Width": 395,
                 "Visible": true,
-                "X": 34,
-                "Y": 65,
-                "RelativeX": 34,
-                "RelativeY": 65,
+                "X": 0,
+                "Y": 0,
+                "RelativeX": 0,
+                "RelativeY": 0,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(139, 87, 42, 1)",
+                    "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 36,
                     "fontStyle": "normal",
                     "letterSpacing": 0,
@@ -773,13 +778,15 @@
                     "lineHeight": 1,
                     "display": "flex",
                     "textAlign": "center",
-                    "fontWeight": "bold"
+                    "fontWeight": "bold",
+                    "backgroundColor": "rgba(139, 87, 42, 1)"
                 },
                 "ParentId": "9b7e4765-5628-46f5-a7aa-fb650a966d20",
                 "position": "absolute",
-                "edgeOffsets": 65,
+                "edgeOffsets": 96,
                 "children": "Recipe Finder",
-                "FontWeight": "bold"
+                "FontWeight": "bold",
+                "BackgroundColor": "rgba(139, 87, 42, 1)"
             },
             "children": [],
             "id": "d8e82e3a-96a9-499d-a543-090059d26b78",

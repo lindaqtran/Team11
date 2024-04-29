@@ -52,61 +52,13 @@
         "ResponsiveWidth": 375,
         "isSimple": true,
         "navigationOptions": {
-            "headerStyle": {}
+            "headerStyle": {},
+            "drawerLabel": "Profile"
         },
         "tabNavigationOptions": {},
-        "BackgroundPicture": "Screenshot 2024-04-02 at 10.14.18 AM.png"
+        "BackgroundPicture": "TasteBudsBackground.avif"
     },
     "children": [
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "Picture": "homeButtonLogo.png",
-                "resizeMode": "stretch",
-                "Height": 108,
-                "Width": 99,
-                "Visible": true,
-                "X": 214,
-                "Y": 43,
-                "RelativeX": 214,
-                "RelativeY": 43,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "39.86666666666667%",
-                    "top": "56.67166416791604%",
-                    "display": "flex",
-                    "backgroundColor": "rgba(0, 0, 0, 0)"
-                },
-                "capInsets": {},
-                "ParentId": "376724cc-eac5-46b8-8e5c-993e8d6fac20",
-                "position": "absolute",
-                "edgeOffsets": 43,
-                "BackgroundColor": "rgba(0, 0, 0, 0)"
-            },
-            "children": [],
-            "id": "b6cefa3c-292a-447a-a51e-864ee75bd1bd",
-            "thunkableVersion": 450,
-            "bindings": null,
-            "name": "homepic"
-        },
         {
             "type": "Label",
             "translatedName": "Label",
@@ -381,10 +333,10 @@
                 "Height": 206,
                 "Width": 253,
                 "Visible": true,
-                "X": 61,
-                "Y": 302,
-                "RelativeX": 61,
-                "RelativeY": 302,
+                "X": 64,
+                "Y": 253,
+                "RelativeX": 64,
+                "RelativeY": 253,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -411,7 +363,7 @@
                 "capInsets": {},
                 "ParentId": "9095267a-b668-4044-8fb9-bd0fa3f58af1",
                 "position": "absolute",
-                "edgeOffsets": 302
+                "edgeOffsets": 253.00000000000003
             },
             "children": [],
             "id": "2288aefb-8c4b-4d03-86f6-60eef06c3847",
@@ -641,9 +593,9 @@
                 "Width": 255,
                 "Visible": true,
                 "X": 64,
-                "Y": 228,
+                "Y": 180,
                 "RelativeX": 64,
-                "RelativeY": 228,
+                "RelativeY": 180,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -674,7 +626,7 @@
                 "Disabled": false,
                 "ParentId": "9095267a-b668-4044-8fb9-bd0fa3f58af1",
                 "position": "absolute",
-                "edgeOffsets": 228.99999999999997
+                "edgeOffsets": 180
             },
             "children": [],
             "id": "5867eeae-98c9-4b3d-b1d6-147313458f8f",
@@ -695,10 +647,10 @@
                 "Height": 41,
                 "Width": 256,
                 "Visible": true,
-                "X": 58,
-                "Y": 554,
-                "RelativeX": 58,
-                "RelativeY": 554,
+                "X": 60,
+                "Y": 499,
+                "RelativeX": 60,
+                "RelativeY": 499,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -729,7 +681,7 @@
                 "Disabled": false,
                 "ParentId": "9095267a-b668-4044-8fb9-bd0fa3f58af1",
                 "position": "absolute",
-                "edgeOffsets": 554
+                "edgeOffsets": 499
             },
             "children": [],
             "id": "1e2357c0-8a35-4637-83b5-5ed45d8cfe70",
@@ -752,9 +704,9 @@
                 "Width": 261,
                 "Visible": true,
                 "X": 64,
-                "Y": 177,
+                "Y": 146,
                 "RelativeX": 64,
-                "RelativeY": 177,
+                "RelativeY": 146,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -796,7 +748,7 @@
                 },
                 "ParentId": "9095267a-b668-4044-8fb9-bd0fa3f58af1",
                 "position": "absolute",
-                "edgeOffsets": 177,
+                "edgeOffsets": 146,
                 "children": "No Name",
                 "TextAlign": "center"
             },
@@ -819,10 +771,10 @@
                 "Height": 55,
                 "Width": 61,
                 "Visible": true,
-                "X": 295,
-                "Y": 73,
-                "RelativeX": 295,
-                "RelativeY": 73,
+                "X": 314,
+                "Y": 56,
+                "RelativeX": 314,
+                "RelativeY": 56,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -853,7 +805,7 @@
                 "Disabled": false,
                 "ParentId": "9095267a-b668-4044-8fb9-bd0fa3f58af1",
                 "position": "absolute",
-                "edgeOffsets": 73
+                "edgeOffsets": 56
             },
             "children": [],
             "id": "a53fa749-711d-411f-82c9-ac09b346462e",
@@ -861,28 +813,77 @@
             "name": "sign out button"
         },
         {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "icons8-hamburger-menu-50 (1).png",
+                "resizeMode": "stretch",
+                "Height": 33,
+                "Width": 33,
+                "Visible": true,
+                "X": 9,
+                "Y": 8,
+                "RelativeX": 9,
+                "RelativeY": 8,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "6.8%",
+                    "top": "1.6784576461769116%",
+                    "display": "flex",
+                    "backgroundColor": "rgba(139, 87, 42, 1)"
+                },
+                "capInsets": {},
+                "ParentId": "376724cc-eac5-46b8-8e5c-993e8d6fac20",
+                "position": "absolute",
+                "edgeOffsets": 8,
+                "BackgroundColor": "rgba(139, 87, 42, 1)"
+            },
+            "children": [],
+            "id": "cfdde68e-a1b0-4cf4-91aa-a3180290c065",
+            "thunkableVersion": 454,
+            "bindings": null,
+            "name": "Image16"
+        },
+        {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
                 "Text": "Profile Screen",
-                "FontSize": 25,
+                "FontSize": 36,
                 "Font": "Merriweather",
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(139, 87, 42, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "TextAlign": "center",
-                "Height": 31,
-                "Width": 329,
+                "Height": 49,
+                "Width": 395,
                 "Visible": true,
-                "X": 30,
-                "Y": 133,
-                "RelativeX": 30,
-                "RelativeY": 133,
+                "X": 0,
+                "Y": 0,
+                "RelativeX": 0,
+                "RelativeY": 0,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(139, 87, 42, 1)",
-                    "fontSize": 25,
+                    "color": "rgba(255, 255, 255, 1)",
+                    "fontSize": 36,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
                     "letterSpacing": 0,
@@ -917,13 +918,15 @@
                     "lineHeight": 1,
                     "display": "flex",
                     "textAlign": "center",
-                    "fontWeight": "bold"
+                    "fontWeight": "bold",
+                    "backgroundColor": "rgba(139, 87, 42, 1)"
                 },
                 "ParentId": "75ad16a3-6581-4069-a3f2-070c75e069c3",
                 "position": "absolute",
-                "edgeOffsets": 133,
+                "edgeOffsets": 96.00000000000001,
                 "children": "Profile Screen",
-                "FontWeight": "bold"
+                "FontWeight": "bold",
+                "BackgroundColor": "rgba(139, 87, 42, 1)"
             },
             "children": [],
             "id": "135cb320-4418-41de-8490-8124bef308d9",
