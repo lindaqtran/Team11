@@ -4,4 +4,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Contact: contact.md
+  - Instructions: instructions.md
+  - Marketing: product.md
 theme: readthedocs
