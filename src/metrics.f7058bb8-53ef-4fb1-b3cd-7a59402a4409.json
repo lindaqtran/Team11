@@ -73,9 +73,9 @@
                 "Width": 325,
                 "Visible": true,
                 "X": 25,
-                "Y": 489,
+                "Y": 440,
                 "RelativeX": 25,
-                "RelativeY": 489,
+                "RelativeY": 440,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -142,9 +142,9 @@
                 "Width": 325,
                 "Visible": true,
                 "X": 25,
-                "Y": 412,
+                "Y": 375,
                 "RelativeX": 25,
-                "RelativeY": 412,
+                "RelativeY": 375,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
