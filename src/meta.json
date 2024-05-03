@@ -11,6 +11,19 @@
                             "isApi": true,
                             "reactType": "Web",
                             "properties": {
+                                "URL": "https://us-central1-team11-673fa.cloudfunctions.net/getTopRecipes"
+                            },
+                            "children": [],
+                            "id": "767140e7-787a-4fd6-8eeb-ba517e627ab5",
+                            "thunkableVersion": 454,
+                            "name": "GetTopRecipes"
+                        },
+                        {
+                            "type": "Web API",
+                            "translatedName": "Web API",
+                            "isApi": true,
+                            "reactType": "Web",
+                            "properties": {
                                 "URL": "https://us-central1-team11-673fa.cloudfunctions.net/calculateAverageRating"
                             },
                             "children": [],
@@ -778,72 +791,110 @@
             "hasAssistant": null,
             "dataSourceLinks": [
                 {
-                    "id": "6634f5c1cbfdf64b6afac5b0",
+                    "id": "66352e9b8b2f7708bf59e099",
                     "dataSource": {
-                        "id": "6634f5c05dc4d1126e56800a",
-                        "name": "Recipes",
+                        "id": "65b27e025bf07c03c3c01632",
+                        "name": "Untitled spreadsheet",
                         "configuration": {
-                            "id": "6634f5c05dc4d1126e568017",
+                            "id": "65b27e025bf07c03c3c0163b",
                             "type": "GOOGLE_SHEETS",
                             "__typename": "GoogleSheetsDataSourceConfiguration"
                         },
                         "collections": [
                             {
-                                "id": "6634f5c1cbfdf64b6afac586",
+                                "id": "65b27e035bf07c03c3c01781",
                                 "name": "0",
                                 "label": "Sheet1",
                                 "fields": [
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac587",
+                                        "id": "65b27e035bf07c03c3c01782",
+                                        "name": "266814081-0",
+                                        "label": "af",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "65b27e035bf07c03c3c01783",
+                                        "name": "1502758430-1",
+                                        "label": "Afrikaans",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    }
+                                ],
+                                "__typename": "DataSourceCollection"
+                            }
+                        ],
+                        "__typename": "DataSource"
+                    },
+                    "__typename": "DataSourceLink"
+                },
+                {
+                    "id": "66352f30924151ddcb3022ae",
+                    "dataSource": {
+                        "id": "66352f2fe9438f9cffb9ba3b",
+                        "name": "Recipes",
+                        "configuration": {
+                            "id": "66352f308b2f7708bf5a1217",
+                            "type": "GOOGLE_SHEETS",
+                            "__typename": "GoogleSheetsDataSourceConfiguration"
+                        },
+                        "collections": [
+                            {
+                                "id": "66352f30924151ddcb30227b",
+                                "name": "0",
+                                "label": "Sheet1",
+                                "fields": [
+                                    {
+                                        "id": "66352f30924151ddcb30227c",
                                         "name": "1047348241-0",
                                         "label": "Title",
                                         "type": "STRING",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac588",
+                                        "id": "66352f30924151ddcb30227d",
                                         "name": "684077604-1",
                                         "label": "Cuisine",
                                         "type": "STRING",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac589",
+                                        "id": "66352f30924151ddcb30227e",
                                         "name": "1760944192-2",
                                         "label": "Diet Type",
                                         "type": "STRING",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac58a",
+                                        "id": "66352f30924151ddcb30227f",
                                         "name": "111050642-3",
                                         "label": "Ingredients",
                                         "type": "STRING",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac58b",
+                                        "id": "66352f30924151ddcb302280",
                                         "name": "2131931117-4",
                                         "label": "Instructions",
                                         "type": "PARAGRAPH",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac58c",
+                                        "id": "66352f30924151ddcb302281",
                                         "name": "928584886-5",
                                         "label": "Meal",
                                         "type": "STRING",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634f5c1cbfdf64b6afac58d",
+                                        "id": "66352f30924151ddcb302282",
                                         "name": "2080218845-6",
                                         "label": "Picture",
                                         "type": "IMAGE",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6634fd4f8b2f7708bf44403f",
+                                        "id": "66352f30924151ddcb302283",
                                         "name": "207543508-7",
                                         "label": "Times",
                                         "type": "STRING",
@@ -862,7 +913,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "3",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -890,6 +941,21 @@
                     "scope": "APP",
                     "name": "userID",
                     "screenId": "89bd00fd-6410-43a1-af09-6e7d60620746"
+                },
+                "319a14a0-16f2-4ae9-a554-28c40d262f00": {
+                    "scope": "APP",
+                    "name": "mealType",
+                    "screenId": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
+                },
+                "e16784a5-e4d3-4ada-b81e-e36dc3d9f22b": {
+                    "scope": "APP",
+                    "name": "diet",
+                    "screenId": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
+                },
+                "9834600e-b6f6-4e64-8762-6d42266929c7": {
+                    "scope": "APP",
+                    "name": "cuisine",
+                    "screenId": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
                 }
             },
             "defaultDesignerDevice": "PHONE",
