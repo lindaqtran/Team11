@@ -124,17 +124,17 @@
                         }
                     }
                 },
-                "Height": 340,
+                "Height": 350,
                 "Width": 360,
                 "Visible": true,
                 "X": 7,
-                "Y": 275,
+                "Y": 270,
                 "RelativeX": 7,
-                "RelativeY": 275,
+                "RelativeY": 270,
                 "ResizeMode": "STRETCH",
                 "ParentId": "9b7e4765-5628-46f5-a7aa-fb650a966d20",
                 "position": "absolute",
-                "edgeOffsets": 278.88543701171875,
+                "edgeOffsets": 270,
                 "style": {
                     "position": "absolute",
                     "left": "7.6%",
@@ -232,7 +232,7 @@
                                     "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                     "componentId": "176908d8-52ad-4c31-a74a-da9eabe864b1",
                                     "property": "DataSourceTableBinding",
-                                    "column": "793b2110-2b5f-4a7e-b490-7b72f2860d1e",
+                                    "column": "6634f5c1cbfdf64b6afac58d",
                                     "row": 0
                                 }
                             },
@@ -342,7 +342,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "176908d8-52ad-4c31-a74a-da9eabe864b1",
                                             "property": "DataSourceTableBinding",
-                                            "column": "06219dbb-d84e-47cd-a0bf-8f526ffe6d44",
+                                            "column": "6634f5c1cbfdf64b6afac587",
                                             "row": 0
                                         }
                                     },
@@ -412,7 +412,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "176908d8-52ad-4c31-a74a-da9eabe864b1",
                                             "property": "DataSourceTableBinding",
-                                            "column": "06219dbb-d84e-47cd-a0bf-8f526ffe6d44",
+                                            "column": "6634fd4f8b2f7708bf44403f",
                                             "row": 0
                                         }
                                     },
@@ -422,7 +422,8 @@
                             ],
                             "id": "03b4e55c-0efe-4abd-afab-c742ab2bd9bf",
                             "thunkableVersion": 453,
-                            "name": "TitleAndSubtitleWrapper"
+                            "name": "TitleAndSubtitleWrapper",
+                            "bindings": {}
                         },
                         {
                             "type": "Row",
@@ -526,7 +527,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "176908d8-52ad-4c31-a74a-da9eabe864b1",
                                             "property": "DataSourceTableBinding",
-                                            "column": "3927a6e0-b0a7-40d5-9dc5-13ed17d86ef6",
+                                            "column": "6634f5c1cbfdf64b6afac58a",
                                             "row": 0
                                         }
                                     },
@@ -536,21 +537,23 @@
                             ],
                             "id": "3306560d-ef47-4029-8764-19e64fd60b66",
                             "thunkableVersion": 453,
-                            "name": "DescriptionWrapper"
+                            "name": "DescriptionWrapper",
+                            "bindings": {}
                         }
                     ],
                     "id": "eded2934-b95e-4ccd-9f14-6d7d77b1a1f0",
                     "thunkableVersion": 453,
-                    "name": "LayoutWrapper"
+                    "name": "LayoutWrapper",
+                    "bindings": {}
                 }
             ],
             "id": "176908d8-52ad-4c31-a74a-da9eabe864b1",
             "thunkableVersion": 448,
             "bindings": {
                 "DataSourceTableBinding": {
-                    "dataSourceLinkId": "be17c497-082d-47bc-879a-ad1c3d182709",
-                    "collectionId": "60e8e9e3-a6b3-455f-b6d2-3428ef1955e6",
-                    "isLocal": true,
+                    "dataSourceLinkId": "6634f5c1cbfdf64b6afac5b0",
+                    "collectionId": "6634f5c1cbfdf64b6afac586",
+                    "isLocal": false,
                     "type": "DATA_SOURCE_TABLE"
                 }
             },
@@ -631,13 +634,13 @@
                 "Font": "Merriweather",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(0, 0, 0, 0)",
-                "Height": 47,
-                "Width": 314,
+                "Height": 50,
+                "Width": 325,
                 "Visible": true,
-                "X": 33,
-                "Y": 223,
-                "RelativeX": 33,
-                "RelativeY": 223,
+                "X": 25,
+                "Y": 215,
+                "RelativeX": 25,
+                "RelativeY": 215,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -686,13 +689,13 @@
                 "Font": "Merriweather",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(0, 0, 0, 0)",
-                "Height": 63,
-                "Width": 316,
+                "Height": 60,
+                "Width": 325,
                 "Visible": true,
-                "X": 32,
-                "Y": 156,
-                "RelativeX": 32,
-                "RelativeY": 156,
+                "X": 25,
+                "Y": 150,
+                "RelativeX": 25,
+                "RelativeY": 150,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
