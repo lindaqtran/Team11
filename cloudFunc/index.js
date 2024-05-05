@@ -75,3 +75,32 @@ exports.getTopRecipes = functions.https.onRequest(async (req, res) => {
         return res.status(500).json({ error: 'Internal Server Error' });
     }
 });
+
+exports.getTop3Recipes = functions.https.onRequest(async (req, res) => {
+    try {
+        const db = admin.database();
+        const recipesRef = db.ref('recipes');
+
+        const snapshot = await recipesRef.once('value');
+        const recipes = snapshot.val();
+
+        const recipeIds = Object.keys(recipes);
+        const sortedRecipeIds = recipeIds.sort((a, b) => {
+            const recipeA = recipes[a];
+            const recipeB = recipes[b];
+            return recipeB.rating - recipeA.rating;
+        });
+
+        const top3RecipeIds = sortedRecipeIds.slice(0, 3);
+
+        const top3Recipes = top3RecipeIds.map(recipeId => {
+            return { id: recipeId, ...recipes[recipeId] };
+        });
+
+        return res.status(200).json({ recipes: top3Recipes });
+
+    } catch (error) {
+        console.error('Error getting top 3 recipes:', error);
+        return res.status(500).json({ error: 'Internal Server Error' });
+    }
+});
