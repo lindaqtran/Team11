@@ -76,7 +76,7 @@ exports.getTopRecipes = functions.https.onRequest(async (req, res) => {
     }
 });
 
-exports.getTop3Recipes = functions.https.onRequest(async (req, res) => {
+exports.getRandomRecipes = functions.https.onRequest(async (_, res) => {
     try {
         const db = admin.database();
         const recipesRef = db.ref('recipes');
@@ -85,22 +85,21 @@ exports.getTop3Recipes = functions.https.onRequest(async (req, res) => {
         const recipes = snapshot.val();
 
         const recipeIds = Object.keys(recipes);
-        const sortedRecipeIds = recipeIds.sort((a, b) => {
-            const recipeA = recipes[a];
-            const recipeB = recipes[b];
-            return recipeB.rating - recipeA.rating;
-        });
+        const randomRecipeIds = getRandomItems(recipeIds, 3); // Get 3 random recipe IDs
 
-        const top3RecipeIds = sortedRecipeIds.slice(0, 3);
-
-        const top3Recipes = top3RecipeIds.map(recipeId => {
+        const randomRecipes = randomRecipeIds.map(recipeId => {
             return { id: recipeId, ...recipes[recipeId] };
         });
 
-        return res.status(200).json({ recipes: top3Recipes });
+        return res.status(200).json({ recipes: randomRecipes });
 
     } catch (error) {
-        console.error('Error getting top 3 recipes:', error);
+        console.error('Error getting random recipes:', error);
         return res.status(500).json({ error: 'Internal Server Error' });
     }
 });
+
+function getRandomItems(arr, numItems) {
+    const shuffled = arr.slice().sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, numItems);
+}
