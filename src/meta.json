@@ -591,6 +591,22 @@
                     "__v": 0,
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b2785c25f66b709cbbfd7a/projects/660bf5988532dfcf99ae683d/assets/660eb5f7a0a908663fb1c8eb?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240505%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240505T030408Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=054a47aa3beb249cad6d711ed58778da986b81be9f6ab1a8646e507889c553fd01c1ce919067a8963942c3b0fb207ea9bfaed0dddd8e04057445a1b600d0866e22b4fc47b35e2572af1f95d8f53395e0f50b633a0286b8545b36e4034d2a41aab4335cbc4468e1000c6a3c03a1ca7c804223766ea83caa10d159edf0cfc5125e803ec7e427c03d83a7233562f1b41e476730f4ce43081507c594d3ac77d63906aad54d5c630cd984f9e1d91db6216879641a846c6a30f09ffa2b2d93fc778f53d752f37d889a515d7be5b0994375dd26f4cdae2567a01356a05c9d4a5a308f66cfdfa96efc9d6602d4ee6a5a92fdf889f0b6a6427be3051a6ad8a3cc176881af",
                     "signedUrlExpirationTime": 1715051048076
+                },
+                "6637f30c2d675531d1409fc7": {
+                    "externalStorageType": "GCS",
+                    "_id": "6637f30c2d675531d1409fc7",
+                    "size": "140",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "icons8-hamburger-menu-50 (1).png",
+                    "backendURI": "/project/660bf5988532dfcf99ae683d/getasset/6637f30c2d675531d1409fc7",
+                    "name": "icons8-hamburger-menu-50 (1).png",
+                    "externalName": "users/65b2785c25f66b709cbbfd7a/projects/660bf5988532dfcf99ae683d/assets/6637f30c2d675531d1409fc7",
+                    "createdAt": "2024-05-05T20:58:52.154Z",
+                    "updatedAt": "2024-05-05T20:58:52.154Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b2785c25f66b709cbbfd7a/projects/660bf5988532dfcf99ae683d/assets/6637f30c2d675531d1409fc7?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240505%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240505T205852Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a24e11b7f8769c45dc1d56c782270c5e0038396c98a661d233f81f9f59c8b4ec2ab0749f38bfe6962fdbe5896fdf810f0cf9358fb44129621011267a3004442273ed7b1755e806001db2fe690cc6ac40fc7b8f35a4ae6d208fe866642d362a263a6c6e6f89d27db1bf2ff26a617537aa4e036598b7ee9789313f8b46e430e207ed714104fceee8de5cc187a0ea40c5f733c5c35b830d88555f094f0c0d02a2927cb86d1b4b064667494c37d3d8a81cc3797b1724bb9fa9ee64cbdeea208b04b4d35960e8fee21a5f91f1838ffbe6530c673cd2fd9272fd821de2dc392409a1de6872d35c137f83bdbeee3a18b884f6214bffcfd2956c9a10ea8bb068f53ccaa3",
+                    "signedUrlExpirationTime": 1715115532190
                 }
             },
             "backendUpgradeVersion": 25,
@@ -681,19 +697,45 @@
             "components": {
                 "children": [
                     {
-                        "id": "89bd00fd-6410-43a1-af09-6e7d60620746"
-                    },
-                    {
-                        "id": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
-                    },
-                    {
-                        "id": "376724cc-eac5-46b8-8e5c-993e8d6fac20"
-                    },
-                    {
-                        "id": "9095267a-b668-4044-8fb9-bd0fa3f58af1"
-                    },
-                    {
-                        "id": "75ad16a3-6581-4069-a3f2-070c75e069c3"
+                        "type": "Drawer Navigator",
+                        "translatedName": "Drawer Navigator",
+                        "reactType": "DrawerNavigator",
+                        "properties": {
+                            "DrawerPosition": "left",
+                            "TabNavigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "TabNavigatorIcon": {},
+                            "config": {
+                                "contentOptions": {
+                                    "drawerPosition": "left"
+                                }
+                            },
+                            "navigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "tabNavigationOptions": {}
+                        },
+                        "children": [
+                            {
+                                "id": "89bd00fd-6410-43a1-af09-6e7d60620746"
+                            },
+                            {
+                                "id": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
+                            },
+                            {
+                                "id": "376724cc-eac5-46b8-8e5c-993e8d6fac20"
+                            },
+                            {
+                                "id": "9095267a-b668-4044-8fb9-bd0fa3f58af1"
+                            },
+                            {
+                                "id": "75ad16a3-6581-4069-a3f2-070c75e069c3"
+                            }
+                        ],
+                        "id": "f68bd047-9373-4d21-aff5-9b692ca74458",
+                        "thunkableVersion": 454,
+                        "name": "Drawer_Navigator1"
                     },
                     {
                         "id": "f7058bb8-53ef-4fb1-b3cd-7a59402a4409"
@@ -800,131 +842,12 @@
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
-            "dataSourceLinks": [
-                {
-                    "id": "66352e9b8b2f7708bf59e099",
-                    "dataSource": {
-                        "id": "65b27e025bf07c03c3c01632",
-                        "name": "Untitled spreadsheet",
-                        "configuration": {
-                            "id": "65b27e025bf07c03c3c0163b",
-                            "type": "GOOGLE_SHEETS",
-                            "__typename": "GoogleSheetsDataSourceConfiguration"
-                        },
-                        "collections": [
-                            {
-                                "id": "65b27e035bf07c03c3c01781",
-                                "name": "0",
-                                "label": "Sheet1",
-                                "fields": [
-                                    {
-                                        "id": "65b27e035bf07c03c3c01782",
-                                        "name": "266814081-0",
-                                        "label": "af",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "65b27e035bf07c03c3c01783",
-                                        "name": "1502758430-1",
-                                        "label": "Afrikaans",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    }
-                                ],
-                                "__typename": "DataSourceCollection"
-                            }
-                        ],
-                        "__typename": "DataSource"
-                    },
-                    "__typename": "DataSourceLink"
-                },
-                {
-                    "id": "66352f30924151ddcb3022ae",
-                    "dataSource": {
-                        "id": "66352f2fe9438f9cffb9ba3b",
-                        "name": "Recipes",
-                        "configuration": {
-                            "id": "66352f308b2f7708bf5a1217",
-                            "type": "GOOGLE_SHEETS",
-                            "__typename": "GoogleSheetsDataSourceConfiguration"
-                        },
-                        "collections": [
-                            {
-                                "id": "66352f30924151ddcb30227b",
-                                "name": "0",
-                                "label": "Sheet1",
-                                "fields": [
-                                    {
-                                        "id": "66352f30924151ddcb30227c",
-                                        "name": "1047348241-0",
-                                        "label": "Title",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb30227d",
-                                        "name": "684077604-1",
-                                        "label": "Cuisine",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb30227e",
-                                        "name": "1760944192-2",
-                                        "label": "Diet Type",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb30227f",
-                                        "name": "111050642-3",
-                                        "label": "Ingredients",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb302280",
-                                        "name": "2131931117-4",
-                                        "label": "Instructions",
-                                        "type": "PARAGRAPH",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb302281",
-                                        "name": "928584886-5",
-                                        "label": "Meal",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb302282",
-                                        "name": "2080218845-6",
-                                        "label": "Picture",
-                                        "type": "IMAGE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "66352f30924151ddcb302283",
-                                        "name": "207543508-7",
-                                        "label": "Times",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    }
-                                ],
-                                "__typename": "DataSourceCollection"
-                            }
-                        ],
-                        "__typename": "DataSource"
-                    },
-                    "__typename": "DataSourceLink"
-                }
-            ],
+            "dataSourceLinks": [],
             "localDataSources": [],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "2",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
