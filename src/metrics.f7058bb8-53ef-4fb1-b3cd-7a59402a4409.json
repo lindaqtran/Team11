@@ -1,4 +1,5 @@
 {
+    "id": "f7058bb8-53ef-4fb1-b3cd-7a59402a4409",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -73,9 +74,9 @@
                 "Width": 325,
                 "Visible": true,
                 "X": 25,
-                "Y": 489,
+                "Y": 440,
                 "RelativeX": 25,
-                "RelativeY": 489,
+                "RelativeY": 440,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -142,9 +143,9 @@
                 "Width": 325,
                 "Visible": true,
                 "X": 25,
-                "Y": 412,
+                "Y": 375,
                 "RelativeX": 25,
-                "RelativeY": 412,
+                "RelativeY": 375,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -531,7 +532,6 @@
             "name": "Label13"
         }
     ],
-    "id": "f7058bb8-53ef-4fb1-b3cd-7a59402a4409",
     "thunkableVersion": 454,
     "bindings": null,
     "name": "metrics"
