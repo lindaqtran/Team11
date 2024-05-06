@@ -745,7 +745,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Tastebuds final",
+            "projectName": "Tastebuds",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -842,12 +842,93 @@
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
-            "dataSourceLinks": [],
+            "dataSourceLinks": [
+                {
+                    "id": "6634f5c1cbfdf64b6afac5b0",
+                    "dataSource": {
+                        "id": "6634f5c05dc4d1126e56800a",
+                        "name": "Recipes",
+                        "configuration": {
+                            "id": "6634f5c05dc4d1126e568017",
+                            "type": "GOOGLE_SHEETS",
+                            "__typename": "GoogleSheetsDataSourceConfiguration"
+                        },
+                        "collections": [
+                            {
+                                "id": "6634f5c1cbfdf64b6afac586",
+                                "name": "0",
+                                "label": "Sheet1",
+                                "fields": [
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac587",
+                                        "name": "1047348241-0",
+                                        "label": "Title",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac588",
+                                        "name": "684077604-1",
+                                        "label": "Cuisine",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac589",
+                                        "name": "1760944192-2",
+                                        "label": "Diet Type",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac58a",
+                                        "name": "111050642-3",
+                                        "label": "Ingredients",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac58b",
+                                        "name": "2131931117-4",
+                                        "label": "Instructions",
+                                        "type": "PARAGRAPH",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac58c",
+                                        "name": "928584886-5",
+                                        "label": "Meal",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634f5c1cbfdf64b6afac58d",
+                                        "name": "2080218845-6",
+                                        "label": "Picture",
+                                        "type": "IMAGE",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "6634fd4f8b2f7708bf44403f",
+                                        "name": "207543508-7",
+                                        "label": "Times",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    }
+                                ],
+                                "__typename": "DataSourceCollection"
+                            }
+                        ],
+                        "__typename": "DataSource"
+                    },
+                    "__typename": "DataSourceLink"
+                }
+            ],
             "localDataSources": [],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "2",
+            "totalCopy": "3",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -899,6 +980,16 @@
                 "356b2549-533d-4dae-9cb9-f93c7a0a22d6": {
                     "scope": "APP",
                     "name": "recipeList",
+                    "screenId": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
+                },
+                "40e0c22e-6cb0-410f-b36b-b505efb42401": {
+                    "scope": "APP",
+                    "name": "rowID",
+                    "screenId": "376724cc-eac5-46b8-8e5c-993e8d6fac20"
+                },
+                "a36b4387-d80e-488f-b453-bdac26949c7e": {
+                    "scope": "APP",
+                    "name": "listID",
                     "screenId": "9b7e4765-5628-46f5-a7aa-fb650a966d20"
                 }
             },
