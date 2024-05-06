@@ -301,7 +301,7 @@
                     "Breakfast",
                     "Lunch",
                     "Dinner",
-                    "Snack"
+                    "Dessert"
                 ],
                 "TextItemsColor": "rgba(139, 87, 42, 1)",
                 "TextItemsBackgroundColor": "rgba(0,0,0,0)",
@@ -938,14 +938,14 @@
                         "Width": 324,
                         "Visible": true,
                         "X": 29,
-                        "Y": 276.6666717529297,
+                        "Y": 277.6666717529297,
                         "RelativeX": 13,
-                        "RelativeY": 212,
+                        "RelativeY": 213,
                         "ResizeMode": "STRETCH",
                         "EmptyText": "",
                         "ParentId": "9b7e4765-5628-46f5-a7aa-fb650a966d20",
                         "position": "absolute",
-                        "edgeOffsets": 276.66668701171875,
+                        "edgeOffsets": 277.6666717529297,
                         "style": {
                             "position": "absolute",
                             "left": "7.6%",
@@ -1042,7 +1042,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "541099d5-411c-47db-87c7-3cfa507a2366",
                                             "property": "DataSourceTableBinding",
-                                            "column": "6634f5c1cbfdf64b6afac58d",
+                                            "column": "66352f30924151ddcb302282",
                                             "row": 0
                                         }
                                     },
@@ -1152,7 +1152,7 @@
                                                     "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                                     "componentId": "541099d5-411c-47db-87c7-3cfa507a2366",
                                                     "property": "DataSourceTableBinding",
-                                                    "column": "6634f5c1cbfdf64b6afac587",
+                                                    "column": "66352f30924151ddcb30227c",
                                                     "row": 0
                                                 }
                                             },
@@ -1222,7 +1222,7 @@
                                                     "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                                     "componentId": "541099d5-411c-47db-87c7-3cfa507a2366",
                                                     "property": "DataSourceTableBinding",
-                                                    "column": "6634fd4f8b2f7708bf44403f",
+                                                    "column": "66352f30924151ddcb302283",
                                                     "row": 0
                                                 }
                                             },
@@ -1337,7 +1337,7 @@
                                                     "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                                     "componentId": "541099d5-411c-47db-87c7-3cfa507a2366",
                                                     "property": "DataSourceTableBinding",
-                                                    "column": "6634f5c1cbfdf64b6afac58a",
+                                                    "column": "66352f30924151ddcb30227f",
                                                     "row": 0
                                                 }
                                             },
@@ -1361,8 +1361,8 @@
                     "thunkableVersion": 454,
                     "bindings": {
                         "DataSourceTableBinding": {
-                            "dataSourceLinkId": "6634f5c1cbfdf64b6afac5b0",
-                            "collectionId": "6634f5c1cbfdf64b6afac586",
+                            "dataSourceLinkId": "66352f30924151ddcb3022ae",
+                            "collectionId": "66352f30924151ddcb30227b",
                             "isLocal": false,
                             "type": "DATA_SOURCE_TABLE"
                         }
