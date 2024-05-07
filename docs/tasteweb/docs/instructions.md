@@ -31,7 +31,11 @@ This guide walks you through using the essential features of the TasteBuds,helpi
 
 **Step 6:** User can set up their profile through Profile Screen. There are two features in this Screen, first is the Name, user can add the name also edit the name. Second is the Add photo, user can either take the photo using the camera or select from the photo library(only on andriod devices).
 
-![step7](img/step7.png) 
+![step7](img/step8.png) 
 
 
-**Step 7:** 
+**Step 7:** When User click "sign out", there will be three buttons,Sign out,rest password and review us. When user click reset password, App will send a reset passowrd email to user's email. When user click review us, we will have a scale of 1 to 10 rating for user to choose.
+
+![step8](img/step7.png)
+
+**Step 8:** At the top left corner, We will have the list to access all screen, Also If user want to sign out, they can use the sign out bustton in the list as well.
