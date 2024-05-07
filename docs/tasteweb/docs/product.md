@@ -21,4 +21,4 @@ TasteBuds is your one-stop shop for delicious and easy home cooking. We understa
 
 **TasteBuds isn't just about recipes, it's about making cooking a fun and rewarding experience for everyone. Download today and start your delicious journey!**
 
-**Available on iOS and Android!**
+**Available on Android!**
