@@ -29,6 +29,9 @@ This guide walks you through using the essential features of the TasteBuds,helpi
 
 ![step6](img/step6.png)
 
-**step 6:** User can set up their profile through Profile Screen. There are two features in this Screen, first is the Name, user can add the name also edit the name. Second is the Add photo, user can either take the photo using the camera or select from the photo library(only on andriod devices).
+**Step 6:** User can set up their profile through Profile Screen. There are two features in this Screen, first is the Name, user can add the name also edit the name. Second is the Add photo, user can either take the photo using the camera or select from the photo library(only on andriod devices).
 
-![step7](img/step7 menu.png) 
+![step7](img/step7.png) 
+
+
+**Step 7:** 
