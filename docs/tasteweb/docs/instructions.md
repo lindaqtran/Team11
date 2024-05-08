@@ -39,3 +39,7 @@ This guide walks you through using the essential features of the TasteBuds,helpi
 ![step8](img/step7.png)
 
 **Step 8:** At the top left corner, We will have the list to access all screen, Also If user want to sign out, they can use the sign out bustton in the list as well.
+
+## Video Walkthrough
+
+![type:video](videos/walkthrough.mp4)

@@ -7,3 +7,5 @@ nav:
   - Instructions: instructions.md
   - Marketing: product.md
 theme: readthedocs
+plugins:
+  - mkdocs-video
